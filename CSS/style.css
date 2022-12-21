@@ -330,6 +330,11 @@ a {
 
     #features .box {
         padding: 30px;
+        text-align: center;
+    }
+
+    #features .box p {
+        text-align: center;
     }
 
     #about .row {
